@@ -1,0 +1,11 @@
+C:\Users\Elchin\source\repos\17122019\17122019\bin\Debug\netcoreapp2.2\17122019.deps.json
+C:\Users\Elchin\source\repos\17122019\17122019\bin\Debug\netcoreapp2.2\17122019.runtimeconfig.json
+C:\Users\Elchin\source\repos\17122019\17122019\bin\Debug\netcoreapp2.2\17122019.runtimeconfig.dev.json
+C:\Users\Elchin\source\repos\17122019\17122019\bin\Debug\netcoreapp2.2\17122019.dll
+C:\Users\Elchin\source\repos\17122019\17122019\bin\Debug\netcoreapp2.2\17122019.pdb
+C:\Users\Elchin\source\repos\17122019\17122019\obj\Debug\netcoreapp2.2\17122019.csprojAssemblyReference.cache
+C:\Users\Elchin\source\repos\17122019\17122019\obj\Debug\netcoreapp2.2\17122019.csproj.CoreCompileInputs.cache
+C:\Users\Elchin\source\repos\17122019\17122019\obj\Debug\netcoreapp2.2\17122019.AssemblyInfoInputs.cache
+C:\Users\Elchin\source\repos\17122019\17122019\obj\Debug\netcoreapp2.2\17122019.AssemblyInfo.cs
+C:\Users\Elchin\source\repos\17122019\17122019\obj\Debug\netcoreapp2.2\17122019.dll
+C:\Users\Elchin\source\repos\17122019\17122019\obj\Debug\netcoreapp2.2\17122019.pdb

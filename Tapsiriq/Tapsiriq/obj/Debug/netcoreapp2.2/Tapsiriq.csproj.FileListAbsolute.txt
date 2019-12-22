@@ -1,0 +1,11 @@
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\bin\Debug\netcoreapp2.2\Tapsiriq.deps.json
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\bin\Debug\netcoreapp2.2\Tapsiriq.runtimeconfig.json
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\bin\Debug\netcoreapp2.2\Tapsiriq.runtimeconfig.dev.json
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\bin\Debug\netcoreapp2.2\Tapsiriq.dll
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\bin\Debug\netcoreapp2.2\Tapsiriq.pdb
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\obj\Debug\netcoreapp2.2\Tapsiriq.csprojAssemblyReference.cache
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\obj\Debug\netcoreapp2.2\Tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\obj\Debug\netcoreapp2.2\Tapsiriq.AssemblyInfoInputs.cache
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\obj\Debug\netcoreapp2.2\Tapsiriq.AssemblyInfo.cs
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\obj\Debug\netcoreapp2.2\Tapsiriq.dll
+C:\Users\Elchin\source\repos\Tapsiriq\Tapsiriq\obj\Debug\netcoreapp2.2\Tapsiriq.pdb
