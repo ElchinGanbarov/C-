@@ -1,0 +1,14 @@
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\bin\Debug\netcoreapp2.2\Laborotory.deps.json
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\bin\Debug\netcoreapp2.2\Laborotory.runtimeconfig.json
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\bin\Debug\netcoreapp2.2\Laborotory.runtimeconfig.dev.json
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\bin\Debug\netcoreapp2.2\Laborotory.dll
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\bin\Debug\netcoreapp2.2\Laborotory.pdb
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\obj\Debug\netcoreapp2.2\Laborotory.csprojAssemblyReference.cache
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\obj\Debug\netcoreapp2.2\Laborotory.csproj.CoreCompileInputs.cache
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\obj\Debug\netcoreapp2.2\Laborotory.AssemblyInfoInputs.cache
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\obj\Debug\netcoreapp2.2\Laborotory.AssemblyInfo.cs
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\obj\Debug\netcoreapp2.2\Laborotory.dll
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\obj\Debug\netcoreapp2.2\Laborotory.pdb
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Elchin\source\repos\Laborotory\Laborotory\obj\Debug\netcoreapp2.2\Laborotory.csproj.CopyComplete

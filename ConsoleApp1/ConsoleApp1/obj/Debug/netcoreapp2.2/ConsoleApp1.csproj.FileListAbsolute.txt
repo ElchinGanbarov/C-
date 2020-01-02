@@ -9,3 +9,6 @@ C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\Con
 C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
 C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
 C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CopyComplete
+C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\Data.pdb

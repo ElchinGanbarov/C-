@@ -1,0 +1,10 @@
+C:\Users\Elchin\source\repos\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.deps.json
+C:\Users\Elchin\source\repos\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.json
+C:\Users\Elchin\source\repos\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.dev.json
+C:\Users\Elchin\source\repos\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.dll
+C:\Users\Elchin\source\repos\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.pdb
+C:\Users\Elchin\source\repos\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Elchin\source\repos\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfoInputs.cache
+C:\Users\Elchin\source\repos\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfo.cs
+C:\Users\Elchin\source\repos\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.dll
+C:\Users\Elchin\source\repos\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.pdb

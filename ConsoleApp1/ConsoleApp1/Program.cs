@@ -1,5 +1,6 @@
 ﻿using System;
-
+using Data;
+using CryptoHelper;
 namespace ConsoleApp1
 {
     class Program
@@ -54,7 +55,7 @@ namespace ConsoleApp1
             //}
             //else
             //    Console.WriteLine("Sorry, you have more than 3 attempts");
-            Noun student = new Noun("");
+            //Noun student = new Noun("");
             //student.Name = "Ugur";
             //student.Surname = "Memmedov";
             //Console.WriteLine(student.Fullname());
@@ -62,11 +63,17 @@ namespace ConsoleApp1
             //student.Display();
             //int result = student.Topla(4,d:3);
 
-            //Console.WriteLine(result);
-            
-            Console.WriteLine(student.Calc(1996));
+            ////Console.WriteLine(result);
 
+            //Console.WriteLine(student.Calc(1996));
+            //User user = new User(23);
+            //user.Name = "Sultan";
 
+            //Group group = new Group();
+            //group.user = user;
+            //Console.WriteLine(user.Age);
+
+            Console.WriteLine(Crypto.HashPassword("123123123123"));
         }
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\Elchin\source\repos\_26.12.2019\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\Elchin\source\repos\_26.12.2019\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\Elchin\source\repos\_26.12.2019\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\Elchin\source\repos\_26.12.2019\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\Elchin\source\repos\_26.12.2019\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Elchin\source\repos\_26.12.2019\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\Elchin\source\repos\_26.12.2019\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\Elchin\source\repos\_26.12.2019\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\Elchin\source\repos\_26.12.2019\Data\obj\Debug\netstandard2.0\Data.pdb

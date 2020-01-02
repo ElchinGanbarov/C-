@@ -1,0 +1,4 @@
+C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.2\Amount.csprojAssemblyReference.cache
+C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.2\Amount.csproj.CoreCompileInputs.cache
+C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.2\Amount.AssemblyInfoInputs.cache
+C:\Users\Elchin\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.2\Amount.AssemblyInfo.cs

@@ -40,17 +40,88 @@ namespace Tapsiriq
             //if(first>second && first > third) { Console.WriteLine(first); }
             //else if(second>first && second > third) { Console.WriteLine(second);}
             //else { Console.WriteLine(third); }
-            int x = 0;
-            for(int i = 1; i <= 10; i++)
+            //Console.WriteLine("Enter the Number: ");
+            //int number = int.Parse(Console.ReadLine());
+            //int count=0;
+            //int n=0;
+
+            //while (n < number)
+            //{
+            //    n++;
+            //    if (number % n == 0)
+            //    {
+            //        count++;   
+            //    }
+            //}
+            //if (count == 2)
+            //{
+            //    Console.WriteLine("Eded sadedir");
+            //}
+            //else { Console.WriteLine("Eded murekkebdir"); }
+
+            //Console.WriteLine("Enter the Number: ");
+            //int number = int.Parse(Console.ReadLine());
+            //int fakt = 1;
+
+            //while (true)
+            //{
+            //    if (number < 1) { break; }
+            //    fakt *= number;
+            //    number--;
+            //}
+
+            //Console.WriteLine(fakt);
+            //do
+            //{
+            //    fakt *= number;
+            //    number--;
+            //} while (number>0);
+            //Console.WriteLine(fakt);
+
+            //for (int i = 1, sum = 1; i <= 128; i *= 2, sum += i)
+            //{
+            //    Console.WriteLine("i={0},sum={1}",i,sum);
+            //}
+
+            //int a = 5;
+            //int b = 2;
+            //int result = 1;
+            //for(int i = 0; i < 5; i++)
+            //{
+            //    result *= b;
+            //}
+            //Console.WriteLine(result);
+
+            //int n = int.Parse(Console.ReadLine());
+            //for(int row = 1; row <= n; row++)
+            //{
+            //    for(int col = 1; col <= row; col++)
+            //    {
+            //        Console.WriteLine(col + " ");
+            //    }
+            //    Console.WriteLine();
+
+            //}
+            //fakt *= i;
+
+            //if (n == Math.Pow(10, i))
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            int n = int.Parse(Console.ReadLine());
+            int sum = 0;
+            for(int i = 1; i <= n; i += 2)
             {
-                x += i;
+                if (i % 7 == 0)
+                {
+                    break;
+                }
+     
+                sum += i;
+                Console.WriteLine("sum={0},i={1}", sum, i);
             }
-            Console.WriteLine(x);
-
-
-
-
-
+          
         }
     }
 }

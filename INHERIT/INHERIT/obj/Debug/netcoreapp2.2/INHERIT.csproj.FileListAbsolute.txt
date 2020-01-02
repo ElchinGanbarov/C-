@@ -1,0 +1,11 @@
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\bin\Debug\netcoreapp2.2\INHERIT.deps.json
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\bin\Debug\netcoreapp2.2\INHERIT.runtimeconfig.json
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\bin\Debug\netcoreapp2.2\INHERIT.runtimeconfig.dev.json
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\bin\Debug\netcoreapp2.2\INHERIT.dll
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\bin\Debug\netcoreapp2.2\INHERIT.pdb
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\obj\Debug\netcoreapp2.2\INHERIT.csprojAssemblyReference.cache
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\obj\Debug\netcoreapp2.2\INHERIT.csproj.CoreCompileInputs.cache
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\obj\Debug\netcoreapp2.2\INHERIT.AssemblyInfoInputs.cache
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\obj\Debug\netcoreapp2.2\INHERIT.AssemblyInfo.cs
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\obj\Debug\netcoreapp2.2\INHERIT.dll
+C:\Users\Elchin\source\repos\INHERIT\INHERIT\obj\Debug\netcoreapp2.2\INHERIT.pdb
